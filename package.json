@@ -1,0 +1,28 @@
+{
+  "_from": "git+https://github.com/frontenddeveloping/PhoneGap-KeepScreenOn-plugin.git",
+  "_id": "PhoneGap-KeepScreenOn-plugin@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/PhoneGap-KeepScreenOn-plugin",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/frontenddeveloping/PhoneGap-KeepScreenOn-plugin.git",
+    "rawSpec": "https://github.com/frontenddeveloping/PhoneGap-KeepScreenOn-plugin.git",
+    "saveSpec": "git+https://github.com/frontenddeveloping/PhoneGap-KeepScreenOn-plugin.git",
+    "fetchSpec": "https://github.com/frontenddeveloping/PhoneGap-KeepScreenOn-plugin.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/frontenddeveloping/PhoneGap-KeepScreenOn-plugin.git#a07a232dcb94de81f41c1f986414a34295198f4e",
+  "_spec": "https://github.com/frontenddeveloping/PhoneGap-KeepScreenOn-plugin.git",
+  "_where": "/Users/christian/Documents/GitRepos/ReconPro.Mobile",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "PhoneGap-KeepScreenOn-plugin ============================",
+  "name": "PhoneGap-KeepScreenOn-plugin",
+  "version": "1.0.0"
+}
